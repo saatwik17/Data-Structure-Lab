@@ -14,15 +14,7 @@ int binarySearch(int arr[], int n, int x) {
 		}
 		else {
 			right = mid - 1;
-		}
-        
-        
-        
-        //Type your content here
-        
-        
-        
-        
+		}  
     }
     
     return -1;
